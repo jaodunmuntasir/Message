@@ -1,3 +1,3 @@
 [build]
-  publish = "build" # or the directory of your built site, like 'dist' or 'public'
+  publish = "." # or the directory of your built site, like 'dist' or 'public'
   functions = "netlify/functions" # the directory where your serverless functions will live
